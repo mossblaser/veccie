@@ -1,0 +1,7 @@
+venv
+sqlite_veccie.egg-info
+*.so
+
+dist/
+build/
+__pycache__
