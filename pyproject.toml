@@ -5,3 +5,5 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "sqlite-veccie"
 version = "0.1"
+readme = "README.md"
+license = {file="LICENSE"}
