@@ -2,7 +2,7 @@ import importlib.util
 
 __all__ = ["path"]
 
-__version__ = "0.1.1"
+__version__ = "0.1.2"
 
 _spec = importlib.util.find_spec("sqlite_veccie.veccie")
 assert _spec is not None
